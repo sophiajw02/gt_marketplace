@@ -11,6 +11,7 @@ We aim to address the lack of a safe platform for buying and selling items withi
 This web allows students of Georgia Tech to sell used goods or offer monetary services within the GT community.
 
 ⚠️ This web application can only be used with an official GT email (@gatech.edu). ⚠️
+⚠️ Currently working on setting up demo users ⚠️
 
 **Technology:** <br />
 HTML, Tailwind CSS, React.js, Firebase, Firebase Realtime Database 
