@@ -10,8 +10,12 @@ This leads to using platforms like Facebook marketplace, Ebay, or Craigslist, wh
 We aim to address the lack of a safe platform for buying and selling items within the Georgia Tech community through the Georgia Tech Marketplace. 
 This web allows students of Georgia Tech to sell used goods or offer monetary services within the GT community.
 
-⚠️ This web application can only be used with an official GT email (@gatech.edu). ⚠️<br />
-⚠️ Currently working on setting up demo users ⚠️
+#### Demo User
+username: `demouser@gatech.edu` </br>
+password: `12341234`
+
+
+⚠️ This web application requires an official GT email (@gatech.edu) to sign up. ⚠️
 
 **Technology:** <br />
 HTML, Tailwind CSS, React.js, Firebase, Firebase Realtime Database 
